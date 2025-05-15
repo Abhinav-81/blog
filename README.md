@@ -4,7 +4,7 @@ This is a simple and responsive **blog website** built using **HTML and CSS**. T
 
 ---
 
-##  Technologies Used
+  Technologies Used
 
 - HTML5  
 - CSS3  
