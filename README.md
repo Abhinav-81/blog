@@ -1,6 +1,6 @@
   Personal Blog Website
 
-This is a simple and responsive **blog website** built using **HTML and CSS**. The project showcases basic web development skills and can be used as a personal or portfolio blog.
+This is a simple and responsive **blog website** built using **HTML and CSS**. The project showcases basic web development skills and can be used as a personal or portfolio blog. (which is a image blog)
 
 ---
 
